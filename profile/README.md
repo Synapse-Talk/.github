@@ -1,4 +1,4 @@
-# 안녕하세요! **Synapse-Talk** 입니다
+# 안녕하세요! **[Synapse-Talk](https://synapse-talk.atlassian.net/wiki/spaces/~7120201e5433cc2433443d891919626b665e67/overview?homepageId=65800)** 입니다
 ###### 대화형 AI 시스템을 처음부터 구축하기.
 
 <div id="header" align="center">
