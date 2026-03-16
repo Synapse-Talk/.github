@@ -1,4 +1,4 @@
-# 안녕하세요! **[Synapse-Talk](https://synapse-talk.atlassian.net/wiki/x/CAEB)** 입니다
+# 안녕하세요! **[Synapse-Talk](https://synapse-talk.atlassian.net/wiki/external/YzRjZDBhYzNkMjc0NDI0MTk0NzBiZGJkZjcxNDU2ODE)** 입니다
 ###### 대화형 AI 시스템을 처음부터 구축하기.
 
 <div id="header" align="center">
